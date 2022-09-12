@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/node": "^18.7.16",
+    "inversify": "^6.0.1",
+    "jest": "^28.0.8",
+    "reflect-metadata": "^0.1.13",
+    "ts-jest": "^28.0.8",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.0.0"
+  }
+}
